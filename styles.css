@@ -1,0 +1,36 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+
+font-family: 'VCR Font';
+src: url(fonts/VCR_OSD_MONO_1.001.ttf);
+
+
+}
+
+body { 
+background-image: url('source.gif');
+background-size: cover;
+color:#FFFFFF
+}
+
+.center h1 {
+    text-align: center;
+    margin: 0;
+    vertical-align: middle;
+    
+   Font-Size:100px
+  
+}
+
+.image-single{ width:170px; 
+ height:127px;
+ float:left;
+}
+
+.wrapper{ width:800px;
+
+
+}
+

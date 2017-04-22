@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'VCR OSD MONO 1 001';
+	src: url('VCR_OSD_MONO_1.001.ttf') format('truetype');
+	h1 {
+   -webkit-text-stroke: 1px black;
+}
+
+ li {
+    list-style-type: none;
+	font-family: 'VCR OSD MONO 1 001';
+}
+}
